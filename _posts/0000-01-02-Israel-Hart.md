@@ -2,6 +2,6 @@
 layout: slide
 content: "welcome to our second Slide!"
 ---
-Hello and welcome to this slide show
+make yourself at home
 
-Use the left arr to go back
+Use the left arrow to go back
